@@ -1,2 +1,2 @@
-# MeTube
-A modified version of YouTube - Database Management
+# meTube
+CPSC6620 - Database Management System Final Project
